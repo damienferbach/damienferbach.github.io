@@ -227,24 +227,24 @@ h6 {
 }
 
 #about {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: white;
+    color: #2d3748;
     margin-top: 0;
 }
 
 #about p {
-    color: #e2e8f0;
+    color: #4a5568;
 }
 
 #about a {
-    color: #90cdf4;
+    color: #3182ce;
 }
 
 #about a:hover {
-    color: #63b3ed;
+    color: #2c5282;
 }
 
 #about h3 {
-    color: white;
-    border-bottom-color: rgba(255, 255, 255, 0.2);
+    color: #1a202c;
+    border-bottom-color: #e2e8f0;
 }
